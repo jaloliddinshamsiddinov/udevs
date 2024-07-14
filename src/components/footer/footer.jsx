@@ -37,7 +37,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="hidden sm:block w-full h-[1px] bg-primary" />
-                <div className="flex flex-col-reverse items-center gap-5 justify-between  py-4">
+                <div className="flex flex-col-reverse sm:flex-row items-center gap-5 justify-between  py-4">
                     <p className="text-primary">© 2024 Udevs. All rights reserved</p>
                     <div className="flex gap-4">
                         <a className='w-[40px] h-[40px] bg-bgDark rounded-full flex justify-center items-center'><FaInstagram size={20} className='text-primary' /></a>
