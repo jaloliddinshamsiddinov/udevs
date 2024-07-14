@@ -1,0 +1,10 @@
+export { default as UxIcon } from "./ux-icon";
+export { default as UiIcon } from "./ui-icon";
+export { default as PrototypingIcon } from "./prototyping-icon";
+export { default as MobileIcon } from "./mobile-icon";
+export { default as WebIcon } from "./web-icon";
+export { default as AtomicIcon } from "./atomic-icon";
+export { default as FigmaIcon } from "./figma-icon";
+export { default as SketchIcon } from "./sketch-icon";
+export { default as LottieIcon } from "./lottie-icon";
+export { default as IllustratorIcon } from "./illustrator-icon";
