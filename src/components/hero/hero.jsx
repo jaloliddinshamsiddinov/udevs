@@ -1,5 +1,5 @@
 import Typewriter from 'typewriter-effect';
-import { Logo } from '../../assets'
+import { Logo } from '/assets'
 import { style } from '../../utils/utils';
 import { _ourServiceData } from '../../utils/constants';
 

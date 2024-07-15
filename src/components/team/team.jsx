@@ -1,5 +1,5 @@
 import CountUp from 'react-countup'
-import { TeamGroup } from '../../assets'
+import { TeamGroup } from '/assets'
 import { useState } from 'react'
 
 

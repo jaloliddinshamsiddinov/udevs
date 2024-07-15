@@ -28,10 +28,10 @@ const UxUi = () => {
                 </div>
                 <div className=' md:w-[500px] h-full relative'>
                     <div className='w-full'>
-                        <img width={'100%'} height={'100%'} src="/src/assets/bg-phone.png" alt="bg" />
+                        <img width={'100%'} height={'100%'} src="/assets/bg-phone.png" alt="bg" />
                     </div>
                     <div className='absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] w-[100%]'>
-                        <img data-aos="zoom-in" width={'100%'} src="/src/assets/mobile-dev.png" alt="phones" />
+                        <img data-aos="zoom-in" width={'100%'} src="/assets/mobile-dev.png" alt="phones" />
                     </div>
                 </div>
             </div>

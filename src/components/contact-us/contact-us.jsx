@@ -37,19 +37,19 @@ const ContactUs = () => {
                 <div>
                     <a target="_blank" href="https://yandex.com/map-widget/v1/?um=constructor%3A3d9eefa927bd54bcc9e8fa398a73c8cafb60622737263c96ad9341c32c21fa69&source=constructor" className="flex">
                         <span className="mr-2 mb-5">
-                            <img src="src\assets\contact\map.svg" alt="img" />
+                            <img src="/assets/contact/map.svg" alt="img" />
                         </span>
                         <p>Ташкент,  Мирзо-Улугбекский район, 5-й пр. Курган, 32  адрес</p>
                     </a>
                     <a href="tel:+998336600999" className="flex">
                         <span className="mr-2 mb-5">
-                            <img src="src\assets\contact\tel.svg" alt="img" />
+                            <img src="/assets/contact/tel.svg" alt="img" />
                         </span>
                         <p>+998 33 66 00 999</p>
                     </a>
                     <a target="_blank" href="mailto:azizbek.b@udevs.io" className="flex">
                         <span className="mr-2 mb-5">
-                            <img src="src\assets\contact\email.svg" alt="img" />
+                            <img src="/assets/contact/email.svg" alt="img" />
                         </span>
                         <p>azizbek.b@udevs.io</p>
                     </a>

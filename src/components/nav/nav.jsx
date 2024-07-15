@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Logo } from '../../assets'
+import { Logo } from '/assets'
 import { style } from '../../utils/utils'
 import { navigationLinks } from '../../utils/constants'
 import { MdOutlineKeyboardArrowDown } from 'react-icons/md'

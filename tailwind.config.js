@@ -21,8 +21,8 @@ export default {
         monrope: `Manrope, sans-serif`,
       },
       backgroundImage: {
-        heroBg: "url('/src/assets/bg.png')",
-        steapsDot: "url('/src/assets/steaps/steap_dot.svg')",
+        heroBg: "url('assets/bg.png')",
+        steapsDot: "url('assets/steaps/steap_dot.svg')",
       },
     },
     screens: {
