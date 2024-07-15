@@ -13,7 +13,7 @@ const Nav = () => {
 
   return (
     <div className='sticky top-0 bg-white z-10'>
-      <div data-aos='fade-down' className='border-b-[1px] shadow-sm'>
+      <div data-aos='fade-down' data-aos-once='true' className='border-b-[1px] shadow-sm'>
         <div className='container m-auto h-[72px] flex items-center'>
           <nav className='flex items-center justify-between w-full font-monrope px-2 sm:px-0 '>
 
