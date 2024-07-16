@@ -207,7 +207,7 @@ export const optimization_data = {
   id: uuidv4(),
   title: "Optimization Infrastructure",
   bgImg: "/assets/bg-phone.png",
-  img: /assets/optimization/optimizationDesctop.png",
+  img: "/assets/optimization/optimizationDesctop.png",
   alt: "optimization img",
   descr:
     "Our experienced professionals will help you optimize your infrastructure",
@@ -254,7 +254,7 @@ export const itConsDta = {
   id: uuidv4(),
   title: "IT consulting",
   bgImg: "",
-  img: /assets/it-consulting/consulting.png",
+  img: "/assets/it-consulting/consulting.png",
   alt: "it consulting img",
   descr:
     "We can improve the qualifications of your employees thereby increasing the efficiency of your company",
